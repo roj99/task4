@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 media/
 *.txt
+=======
+.env
+>>>>>>> sar-remote/main
